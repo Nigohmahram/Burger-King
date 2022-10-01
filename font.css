@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'Raleway-Black';
+    src: url(../55-Burger/bootstrap-5.2.0-dist/fonts/Raleway-Black.ttf);
+}
+@font-face{
+    font-family: 'Raleway-Thin';
+    src: url(../55-Burger/bootstrap-5.2.0-dist/fonts/Raleway-Thin.ttf);
+}
+@font-face{
+    font-family: 'Raleway-Bold';
+    src: url(../55-Burger/bootstrap-5.2.0-dist/fonts/Raleway-Bold.ttf);
+}
+@font-face{
+    font-family: 'Raleway-Regular';
+    src: url(../55-Burger/bootstrap-5.2.0-dist/fonts/Raleway-Regular.ttf);
+}
+@font-face{
+    font-family: 'Raleway-Light';
+    src: url(bootstrap-5.2.0-dist/fonts/Raleway-Light.ttf);
+}
